@@ -1,2 +1,2 @@
 # IPL-Team-SQL-Project
-Predicating the IPL Best Players for a New Team for Auction
+Predicating the IPL Best Players for a New Team for Auction, A New IPL Team Owner Wanted to have some key players in the pocket before entering into the IPL Auction and as an data analyst we have to give them the list of top players from different categories like Most Dangerous player, Best Bowlers list and Best all rounders as well as some more key players that can cetainly be the game changer for an IPL franchies.
